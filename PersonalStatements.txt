@@ -1,0 +1,12 @@
+/* 
+ * This file is used to practice some git functions: 
+ * pull, commit, merge, push, branch, revert 
+ * 
+ * Add your contribution to the next line.
+ */
+
+// First names only
+Frank
+
+// Add single-line personal statement.
+Frankly speaking, I am merely a humble man saved by the grace of Jesus Christ.
