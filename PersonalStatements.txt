@@ -8,7 +8,9 @@
 // First names only
 Frank
 Mr. Yang
+CPCS.Yang.stu
 
 // Add single-line personal statement.
 Frankly speaking, I am merely a humble man saved by the grace of Jesus Christ.
 Mr. Yang is a engineering teacher.
+CPCS.Yang.stu is the coolest student!
