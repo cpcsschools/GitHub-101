@@ -2,6 +2,7 @@ started "working" branch
 
 // while "working" branch's "local" is being changed in VSCode, "working" branch's "remote" is changed (using web browser)
 // let's see how to do a "pull --rebase"
+// yet another change to "working" branch after pull request #4 is made.
 /* 
  * This file is used to practice some git functions: 
  * pull, commit, merge, push, branch, revert 
